@@ -1,12 +1,6 @@
 # super-support
 Aplicación de Chat en Tiempo Real: React, Node.js, Socket.io y TypeScript
 
-<b>vista del cliente</b>
-<img src="https://github.com/YonPalac1/jonatan-palacios-dev/blob/master/src/utils/works/img1.png?raw=true"/>
-
-<b>vista del administrador que recibe las consultas</b>
-<img src="https://github.com/YonPalac1/jonatan-palacios-dev/blob/master/src/utils/works/chat-admin.png?raw=true">
-<br><br>
 <h3>Descripción:</h3>
 
 Desarrolla una aplicación de chat en tiempo real completa e interactiva utilizando las siguientes tecnologías:
@@ -32,6 +26,13 @@ Desarrolla una aplicación de chat en tiempo real completa e interactiva utiliza
 <b>Configuración del servidor Socket.io:</b> Configurar correctamente el servidor Socket.io en Node.js para escuchar conexiones entrantes y emitir eventos a los clientes.
     <b>Manejo de eventos en React:</b> Implementar la lógica para manejar eventos Socket.io en el frontend de React, actualizando la interfaz de usuario en tiempo real al recibir nuevos mensajes.
     <b>Autenticación y autorización:</b> Implementar un sistema de autenticación y autorización para garantizar que solo los usuarios autorizados puedan acceder al chat y enviar mensajes.
+<br><br>
+<b>vista del cliente</b>
+<img src="https://github.com/YonPalac1/jonatan-palacios-dev/blob/master/src/utils/works/img1.png?raw=true"/>
+
+<b>vista del administrador que recibe las consultas</b>
+<img src="https://github.com/YonPalac1/jonatan-palacios-dev/blob/master/src/utils/works/chat-admin.png?raw=true">
+<br><br>
 
 <h4>Lecciones aprendidas:</h4>
 
