@@ -1,6 +1,12 @@
 # super-support
 Aplicación de Chat en Tiempo Real: React, Node.js, Socket.io y TypeScript
 
+<b>vista del cliente</b>
+<img src="https://github.com/YonPalac1/jonatan-palacios-dev/blob/master/src/utils/works/img1.png?raw=true"/>
+
+<b>vista del administrador que recibe las consultas</b>
+<img src="https://github.com/YonPalac1/jonatan-palacios-dev/blob/master/src/utils/works/chat-admin.png?raw=true">
+<br><br>
 <h3>Descripción:</h3>
 
 Desarrolla una aplicación de chat en tiempo real completa e interactiva utilizando las siguientes tecnologías:
